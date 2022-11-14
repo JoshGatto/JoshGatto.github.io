@@ -9,8 +9,8 @@ body{
     padding-bottom: 40px;
 }
 .firstPage{
-    padding-top: 60%;
-    padding-bottom: 30%;
+    padding-top: 60vh;
+    padding-bottom: 20vh;
 }
 iframe{
     width:100%;
