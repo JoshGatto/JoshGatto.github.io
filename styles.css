@@ -110,6 +110,7 @@ p{
     font-size:1.3em;
 }
 .profile_pic{
+    display: block;
     width: 20%;
     float: left;
     border-radius:25px;
