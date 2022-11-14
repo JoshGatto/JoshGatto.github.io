@@ -24,7 +24,7 @@ table{
     overflow: visible;
 }
 .skills{
-    width: 75%;
+    width: 90%;
     height: 60%;
     background-color: rgb(255, 255, 255);
     margin: 40px;
@@ -40,7 +40,9 @@ table{
 }
 .skills_grid{
     display: grid;
-    grid-template-columns: 400px 400px 400px 400px;
+    grid-template-columns: repeat(3, 35%);
+    justify-items:center;
+    column-gap: 30px;
 }
 .grid-container {
     display: grid;
