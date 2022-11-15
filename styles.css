@@ -111,10 +111,13 @@ p{
 }
 .profile_pic{
     display: block;
-    width: 20%;
+    max-width: 220px;
+    max-height: 320px;
     float: left;
     border-radius:25px;
-    margin-right: 60px;
+    margin-right: 60px; 
+    width: auto;
+    height: auto;
 }
 
 .icon{
