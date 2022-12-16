@@ -7,7 +7,7 @@ html {
   }
   
   #first_page {
-    padding: 60vh 20vh;
+    padding: 40vh 5%;
   }
   
   .project_feature {
@@ -133,8 +133,7 @@ html {
   
   .profile_pic {
     display: block;
-    max-width: 220
-  px;
+    max-width: 220px;
     max-height: 320px;
     float: left;
     border-radius:25px;
