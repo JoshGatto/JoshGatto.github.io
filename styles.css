@@ -20,7 +20,8 @@ html {
   }
   
   #skills_page {
-    background-color: #3B3B3B;
+    background-color: rgba(59, 59, 59, .2);
+    backdrop-filter: blur(16px);
     padding: 30px;
     min-width: 800px;
     color: white;
@@ -67,7 +68,8 @@ html {
   }
   
   .block_grey {
-    background-color: #3B3B3B;
+    background-color: rgba(59, 59, 59, .2);
+    backdrop-filter: blur(16px);
     padding: 10px 50px 40px 50px;
     min-width: 200px;
     color: white;
@@ -83,7 +85,8 @@ html {
   .education_info {
     width: 50%;
     padding: 20px;
-    background-color: #3B3B3B;
+    background-color: rgba(59, 59, 59, .2);
+    backdrop-filter: blur(16px);
     color: white;
     border-radius: 25px;
   }
@@ -97,7 +100,8 @@ html {
   .experience_info {
     width: 80%;
     padding: 20px;
-    background-color: #3B3B3B;
+    background-color: rgba(59, 59, 59, .2);
+    backdrop-filter: blur(16px);
     color: white;
     border-radius: 25px;
   }
